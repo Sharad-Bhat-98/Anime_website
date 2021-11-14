@@ -7,7 +7,7 @@ import "./index.css";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import yellow from "@material-ui/core/colors/yellow";
 import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
-
+//global theme
 const theme = createTheme({
   palette: {
     type: "dark",
